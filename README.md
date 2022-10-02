@@ -1,1 +1,1 @@
-# .github
+# Crypto for fun ^.^
